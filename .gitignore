@@ -7,7 +7,6 @@ venv/
 .vscode/
 .local/
 
-data/raw/*.csv
 data/raw/*.zip
 data/processed/
 data/sample/
